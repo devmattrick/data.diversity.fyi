@@ -1,0 +1,63 @@
+{
+  "name": "Microsoft",
+  "website": "https://microsoft.com",
+  "notes": [
+    "Microsoft also publishes data on Microsoft + Linkedin diversity in their [report summary](https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#coreui-contentrichblock-9se7qru)."
+  ],
+  "stats": [
+    {
+      "year": 2018,
+      "report": "https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#coreui-contentrichblock-9se7qru",
+      "data": {
+        "sex": {
+          "female": 19.9,
+          "male": 80.0
+        },
+        "race": {
+          "asian": 39.2,
+          "black": 2.8,
+          "latinx": 4.5,
+          "multiracial": 1.8,
+          "nativeAmerican": 0.8,
+          "white": 50.9
+        }
+      }
+    },
+    {
+      "year": 2017,
+      "report": "https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#coreui-contentrichblock-9se7qru",
+      "data": {
+        "sex": {
+          "female": 19.0,
+          "male": 81.0
+        },
+        "race": {
+          "asian": 38.2,
+          "black": 2.7,
+          "latinx": 4.3,
+          "multiracial": 1.6,
+          "nativeAmerican": 0.8,
+          "white": 52.3
+        }
+      }
+    },
+    {
+      "year": 2016,
+      "report": "https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#coreui-contentrichblock-9se7qru",
+      "data": {
+        "sex": {
+          "female": 17.5,
+          "male": 82.0
+        },
+        "race": {
+          "asian": 37.1,
+          "black": 2.4,
+          "latinx": 4.0,
+          "multiracial": 1.4,
+          "nativeAmerican": 0.7,
+          "white": 54.2
+        }
+      }
+    }
+  ]
+}
