@@ -4,6 +4,7 @@ const glob = require('glob');
 const mkdirp = require('mkdirp');
 const ncp = require('ncp');
 const { resolve } = require('path');
+const rimraf = require('rimraf');
 
 let atlas = [];
 
@@ -20,6 +21,7 @@ function build(folder) {
   atlas.push({
     name: company.name,
     website: company.website,
+    info: `${folder}/info.json`,
     stats,
   });
 }
@@ -30,6 +32,7 @@ glob('*', { cwd: resolve(__dirname, '../data') }, (err, files) => {
     return;
   }
 
+  rimraf.sync(resolve(__dirname, '../dist'));
   mkdirp(resolve(__dirname, '../dist'));
   files.forEach(build);
 
