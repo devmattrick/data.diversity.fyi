@@ -22,6 +22,7 @@ function build(folder) {
     name: company.name,
     website: company.website,
     info: `${folder}/info.json`,
+    logo: `${folder}/logo.png`,
     stats,
   });
 }
