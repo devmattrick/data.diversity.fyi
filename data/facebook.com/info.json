@@ -1,0 +1,119 @@
+{
+  "name": "Facebook",
+  "website": "https://facebook.com",
+  "notes": [
+    "Facebook's published historical information prior to 2018 is rounded to the nearest percent.",
+    "\"Other\" is included as a category for race in Facebook's data, but has been removed from our data for the sake of consistency.",
+    "Facebook does not specify Native Americans in their diversity report, please see their [EEO-1](https://diversity.fb.com/wp-content/images/2018-Consolidated-EEO-1-Part-1.pdf) for detailed information."
+  ],
+  "stats": [
+    {
+      "year": 2019,
+      "report": "https://diversity.fb.com/read-report/",
+      "data": {
+        "sex": {
+          "female": 23,
+          "male": 77
+        },
+        "race": {
+          "asian": 52.3,
+          "black": 1.5,
+          "latinx": 3.5,
+          "multiracial": 2.3,
+          "nativeAmerican": 0,
+          "white": 40.0
+        }
+      }
+    },
+    {
+      "year": 2018,
+      "report": "https://diversity.fb.com/read-report/",
+      "data": {
+        "sex": {
+          "female": 21.6,
+          "male": 78.4
+        },
+        "race": {
+          "asian": 50.3,
+          "black": 1.3,
+          "latinx": 3.1,
+          "multiracial": 2.2,
+          "nativeAmerican": 0,
+          "white": 42.7
+        }
+      }
+    },
+    {
+      "year": 2017,
+      "report": "https://diversity.fb.com/read-report/",
+      "data": {
+        "sex": {
+          "female": 19,
+          "male": 81
+        },
+        "race": {
+          "asian": 49,
+          "black": 1,
+          "latinx": 3,
+          "multiracial": 2,
+          "nativeAmerican": 0,
+          "white": 45
+        }
+      }
+    },
+    {
+      "year": 2016,
+      "report": "https://diversity.fb.com/read-report/",
+      "data": {
+        "sex": {
+          "female": 17,
+          "male": 83
+        },
+        "race": {
+          "asian": 46,
+          "black": 1,
+          "latinx": 3,
+          "multiracial": 2,
+          "nativeAmerican": 0,
+          "white": 48
+        }
+      }
+    },
+    {
+      "year": 2015,
+      "report": "https://diversity.fb.com/read-report/",
+      "data": {
+        "sex": {
+          "female": 16,
+          "male": 84
+        },
+        "race": {
+          "asian": 43,
+          "black": 1,
+          "latinx": 3,
+          "multiracial": 2,
+          "nativeAmerican": 0,
+          "white": 51
+        }
+      }
+    },
+    {
+      "year": 2014,
+      "report": "https://diversity.fb.com/read-report/",
+      "data": {
+        "sex": {
+          "female": 15,
+          "male": 85
+        },
+        "race": {
+          "asian": 41,
+          "black": 1,
+          "latinx": 3,
+          "multiracial": 2,
+          "nativeAmerican": 0,
+          "white": 53
+        }
+      }
+    }
+  ]
+}

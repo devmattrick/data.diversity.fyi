@@ -21,8 +21,7 @@ function build(folder) {
   atlas.push({
     name: company.name,
     website: company.website,
-    info: `${folder}/info.json`,
-    logo: `${folder}/logo.png`,
+    info: folder,
     notes: company.notes,
     stats,
   });
